@@ -1,0 +1,24 @@
+{
+  "name": "nova-shuffle",
+  "version": "1.0.0",
+  "description": "A Nova.app extension for shuffling",
+  "main": "Shuffle.novaextension/Scripts/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdl/nova-shuffle.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Chris DiLorenzo",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-standard": "^16.0.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.1.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "jest": "^26.5.3"
+  }
+}

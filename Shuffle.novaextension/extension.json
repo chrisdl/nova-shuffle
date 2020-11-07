@@ -1,0 +1,27 @@
+{
+  "identifier": "chrisdl.Shuffle",
+  "name": "Shuffle",
+  "organization": "Chris DiLorenzo",
+  "description": "Shuffle lines, content or arrays in the editor.",
+  "version": "1.0",
+  "categories": [ "commands" ],
+  "repository": "https://github.com/chrisdl/nova-shuffle",
+  "bugs": "https://github.com/chrisdl/nova-shuffle/issues",
+  "main": "main.js",
+  
+  "activationEvents": [ "*" ],
+  "entitlements": { },
+  
+  "commands": {
+    "editor": [
+      {
+        "title": "Shuffle Lines",
+        "command": "shuffle.lines"
+      },
+      {
+        "title": "Shuffle Content",
+        "command": "shuffle.content"
+      }
+    ]
+  }
+}
