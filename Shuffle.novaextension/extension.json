@@ -2,7 +2,7 @@
   "identifier": "chrisdl.Shuffle",
   "name": "Shuffle",
   "organization": "Chris DiLorenzo",
-  "description": "Shuffle lines, content or arrays in the editor.",
+  "description": "Shuffle lines or content in the editor.",
   "version": "1.0",
   "categories": [ "commands" ],
   "repository": "https://github.com/chrisdl/nova-shuffle",
