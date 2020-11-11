@@ -2,7 +2,7 @@
 
 Extension for nova.app that allows you to shuffle highlighted text/lines.
 
-![usage](https://raw.githubusercontent.com/chrisdl/nova-sort/master/usage.png)
+![usage](https://raw.githubusercontent.com/chrisdl/nova-shuffle/master/SHFL.gif)
 
 # About
 
