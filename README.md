@@ -1,3 +1,5 @@
+[![DeepSource](https://deepsource.io/gh/chrisdl/nova-shuffle.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/chrisdl/nova-shuffle/?ref=repository-badge)
+
 # Shuffle
 
 Extension for nova.app that allows you to shuffle highlighted text/lines.
