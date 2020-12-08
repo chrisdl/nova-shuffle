@@ -1,0 +1,14 @@
+version = 1
+
+test_patterns = ["*.js"]
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+  [analyzers.meta]
+  environment = [
+    "nodejs",
+    "jest"
+  ]
+  style_guide = "standard"
