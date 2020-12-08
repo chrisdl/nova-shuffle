@@ -1,5 +1,7 @@
 {
-  "plugins": ["jest"],
+  "plugins": [
+    "jest"
+  ],
   "env": {
     "es2021": true,
     "jest/globals": true
