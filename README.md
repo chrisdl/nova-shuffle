@@ -26,3 +26,7 @@ Currently you can shuffle in 2 different ways:
 
  - I tried shuffling lines on about 100k lines and it worked fine, although Nova definitely struggled with replacing that amount of text in one go. Aka the shuffling isn't really the bottleneck.
  - Shuffling content seemed to start complaining a bit on my computer for a file that was about 1.4MB (50k LoC of roughly 40 character length).
+
+# New stewardship
+
+I unfortunately no longer use Nova, if anyone wants to take over stewardship of this extension I would be happy to accomodate. I would suggest contacting me through LinkedIn https://www.linkedin.com/in/cdilorenzo/
