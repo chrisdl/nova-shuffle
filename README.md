@@ -1,5 +1,5 @@
 [![DeepSource](https://deepsource.io/gh/chrisdl/nova-shuffle.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/chrisdl/nova-shuffle/?ref=repository-badge)
-[![Build Status](https://travis-ci.com/chrisdl/nova-shuffle.svg?branch=master)](https://travis-ci.com/chrisdl/nova-shuffle)
+[![Build Status](https://app.travis-ci.com/chrisdl/nova-shuffle.svg?token=bUDxiVPUfnhYoaB66vZq&branch=master)](https://app.travis-ci.com/github/chrisdl/nova-shuffle)
 
 # Shuffle
 
