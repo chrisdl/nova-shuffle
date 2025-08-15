@@ -22,7 +22,7 @@ nova.commands.register('shuffle.lines', (editor) => {
       lines.pop()
     }
     const shuffledLines = utils.shuffleArray(lines)
-    editor.edit(function (e) {
+    editor.edit(e => {
       if (isLastLineANewline) {
         shuffledLines.push('')
       }
@@ -53,7 +53,7 @@ nova.commands.register('shuffle.content', (editor) => {
     if (isLastLineANewline) {
       linesOfShuffledContent.push('')
     }
-    editor.edit(function (e) {
+    editor.edit(e => {
       e.replace(range, linesOfShuffledContent.join('\n'))
     })
   }
